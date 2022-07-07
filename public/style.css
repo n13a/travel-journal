@@ -1,0 +1,85 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+
+.header {
+    background-color: #F55A5A;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+
+.header h1{
+    color: #fff;
+    font-size: 16px;
+
+}
+
+.header svg{
+    transform: scale(1.2);
+}
+
+.travel--card {
+    padding: 40px;
+    display: flex;
+    height: 300px;
+    gap: 20px;
+
+}
+
+.location {
+    font-size: 14px;
+}
+
+.travel--card svg {
+    margin-right: 5px;
+    transform: scale(1.3); 
+}
+
+.mainImage {
+
+ 
+    width: 150px;
+    height: 200px;
+    
+
+    background: url(.png);
+    border-radius: 5px;
+
+
+    
+}
+
+.date {
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.description {
+    font-size: 14px;
+}
+
+.location--map {
+    color: #918E9B;
+    font-size: 13px;
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
+
+.line {
+    margin: 0 auto;
+    width: 620px;
+    
+
+    border: 1px solid #F5F5F5;
+}

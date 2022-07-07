@@ -1,6 +1,3 @@
-# The Design 
-
-<img src="./githubImage/design.png" />
 
 # Getting Started with Create React App
 
@@ -79,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 journal page created by React
 
 The Design: [Figma](https://www.figma.com/file/XUJmNUGJfoBiyG8VOFBpd3/Travel-Journal-(Copy)?node-id=0%3A1)
+
