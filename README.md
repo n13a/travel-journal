@@ -1,3 +1,6 @@
+# The Design 
+
+<img src="./githubImage/design.png" width="100%" />
 
 # Getting Started with Create React App
 
